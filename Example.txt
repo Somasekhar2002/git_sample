@@ -1,1 +1,1 @@
-This is an example for getting into git.....!
+This is an example text for getting into git.....!
